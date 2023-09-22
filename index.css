@@ -1,0 +1,15 @@
+/* Reset the default margin on the body element and specify a font family for text */
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased; /* Improve font rendering in WebKit browsers */
+  -moz-osx-font-smoothing: grayscale; /* Improve font rendering in macOS browsers */
+}
+
+/* Define the font family for code elements, typically used for displaying code snippets */
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
