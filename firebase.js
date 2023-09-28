@@ -4,13 +4,13 @@ import { getFirestore } from "firebase/firestore";
 
 // Firebase configuration object containing your project's credentials
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_AUTH_DOMAIN",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_STORAGE_BUCKET",
-  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-  appId: "YOUR_APP_ID",
-  measurementId: "YOUR_MEASUREMENT_ID"
+  apiKey: "AIzaSyDqoeGeQ6BBsirWcTRW6wKZyAx6VSMfVzI",
+  authDomain: "task7-b82d4.firebaseapp.com",
+  projectId: "task7-b82d4",
+  storageBucket: "task7-b82d4.appspot.com",
+  messagingSenderId: "45308032764",
+  appId: "1:45308032764:web:3175cafcf9731c89700979",
+  measurementId: "G-Y3J34HE5XN"
 };
 
 // Initialize Firebase by passing the configuration object
